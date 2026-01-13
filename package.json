@@ -65,15 +65,13 @@
     "unocss": "66.5.12",
     "unocss-preset-theme": "^0.14.1"
   },
-  "pnpm": {
-    "patchedDependencies": {
-      "@qwik.dev/partytown@0.11.2": "patches/@qwik.dev__partytown@0.11.2.patch"
-    }
-  },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
   },
   "lint-staged": {
     "*.{js,mjs,ts,astro}": "eslint --fix"
+  },
+  "patchedDependencies": {
+    "@qwik.dev/partytown@0.11.2": "patches/@qwik.dev__partytown@0.11.2.patch"
   }
 }
