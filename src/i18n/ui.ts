@@ -48,9 +48,9 @@ export const ui: Record<Language, Translation> = {
     toc: 'Table des matières',
   },
   'ja': {
-    title: '再組版',
-    subtitle: '印刷の美を甦らせる',
-    description: 'Retypesetは、日本語では「再組版」と呼ばれる、Astroフレームワークをベースにした静的ブログテーマです。活版印字からデザインのインスピレーションを得て、新しい視覚的な規範を確立し、すべてのページのレイアウトを再構成することで、紙の書籍のような読書体験を提供し、版面の美しさを蘇らせます。見るものすべてが細部にこだわり、限られたスペースの中に優雅さを表現しています。',
+    title: 'Ianstayathome',
+    subtitle: 'We are living in the future of the past.',
+    description: '',
     posts: '記事',
     tags: 'タグ',
     about: '概要',

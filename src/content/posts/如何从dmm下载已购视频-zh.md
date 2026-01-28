@@ -8,8 +8,8 @@ tags:
 draft: false
 pin: 0
 toc: true
-lang: ''
-abbrlink: ''
+lang: 'zh'
+abbrlink: 'how-to-download-dmm-video'
 ---
 
 在 DMM/Fanza 购买影片后，如何下载 MP4 格式到本地？在官方提供的播放渠道中，并没有包含此一选项
